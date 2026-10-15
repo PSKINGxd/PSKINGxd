@@ -1,12 +1,14 @@
-<div align="center">
+ <div align="center">
 
 # ⚡ PSKINGxd
 
-### `C` · `C#` · `Graphics Programming` · `Game Development`
+<img src="gif.gif" width="100%" alt="PSKINGxd Animated Banner">
+
+### `C` · `C++` · `C#` · `Graphics Programming` · `Game Development`
 
 **Building things. Breaking things. Learning how they work.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PSKINGxd)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
@@ -19,7 +21,7 @@
 
 Hey! I'm **PSKINGxd**, a developer exploring low-level programming, graphics and game development.
 
-- 🔧 Interested in **C Projects**
+- 🔧 Interested in **C/C++ Projects**
 - 🎮 Learning **C# and Unity game development**
 - 🖥️ Exploring **OpenGL and Vulkan**
 - 🌌 Interested in graphics programming, shaders and rendering
@@ -41,8 +43,14 @@ Hey! I'm **PSKINGxd**, a developer exploring low-level programming, graphics and
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
+<img src="gif.gif" width="80%" alt="PSKINGxd Animated GIF">
+
+</div>
+
 - **[PS FPS SHADER](https://github.com/PSKINGxd/PS-FPS-SHADER/issues)** — Issue Tracker for my PS FPS SHADER.
-- **[C/C++ OpenGL BG Changer Project](https://github.com/PSKINGxd/OpenGL-Background-Changer-Program)** — This is my First OpenGL Program which Changes the BackGround Color based on the Key You Press. Source Code is also Available
+- **[C/C++ OpenGL BG Changer Project](https://github.com/PSKINGxd/OpenGL-Background-Changer-Program)** — My first OpenGL program, which changes the background color based on the key you press. Source code is also available.
 
 ## 📊 GitHub Overview
 
@@ -56,9 +64,9 @@ Hey! I'm **PSKINGxd**, a developer exploring low-level programming, graphics and
 
 ## 🎯 Currently Exploring
 
-- C development(Yeah I Quited C++)
+- C/C++ development
 - C# with Unity
-- Graphics programming and rendering(Sometimes)
+- Graphics programming and rendering (sometimes)
 - Writing cleaner, more maintainable code
 
 ---
