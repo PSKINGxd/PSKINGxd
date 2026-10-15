@@ -2,7 +2,7 @@
 
 # ⚡ PSKINGxd
 
-<img src="gif.gif" width="100%" alt="PSKINGxd Animated Banner">
+<img src="gif.gif" width="25%" alt="PSKINGxd Animated Banner">
 
 ### `C` · `C++` · `C#` · `Graphics Programming` · `Game Development`
 
@@ -45,7 +45,7 @@ Hey! I'm **PSKINGxd**, a developer exploring low-level programming, graphics and
 
 <div align="center">
 
-<img src="gif.gif" width="80%" alt="PSKINGxd Animated GIF">
+<img src="gif.gif" width="25%" alt="PSKINGxd Animated GIF">
 
 </div>
 
