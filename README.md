@@ -50,16 +50,6 @@ Hey! I'm **PSKINGxd**, a developer exploring low-level programming, graphics and
 - **[PS FPS SHADER](https://github.com/PSKINGxd/PS-FPS-SHADER/issues)** — Issue Tracker for my PS FPS SHADER.
 - **[C/C++ OpenGL BG Changer Project](https://github.com/PSKINGxd/OpenGL-Background-Changer-Program)** — My first OpenGL program, which changes the background color based on the key you press. Source code is also available.
 
-## 📊 GitHub Overview
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PSKINGxd&show_icons=true&hide_border=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PSKINGxd&layout=compact&hide_border=true&theme=github_dark)
-
-</div>
-
 ## 🎯 Currently Exploring
 
 - C/C++ development
