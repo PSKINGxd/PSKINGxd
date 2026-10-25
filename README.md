@@ -4,7 +4,7 @@
 
 <img src="gif.gif" width="25%" alt="PSKINGxd Animated Banner">
 
-### `C` · `C++` · `C#` · `Graphics Programming` · `Game Development`
+### `C` · `C++` · `Graphics Programming` ·
 
 **Building things. Breaking things. Learning how they work.**
 
@@ -22,7 +22,6 @@
 Hey! I'm **PSKINGxd**, a developer exploring low-level programming, graphics and game development.
 
 - 🔧 Interested in **C/C++ Projects**
-- 🎮 Learning **C# and Unity game development**
 - 🖥️ Exploring **OpenGL and Vulkan**
 - 🌌 Interested in graphics programming, shaders and rendering
 - 🧪 I enjoy experimenting with software, understanding systems and building projects
@@ -33,9 +32,8 @@ Hey! I'm **PSKINGxd**, a developer exploring low-level programming, graphics and
 
 | Area | Technologies |
 |---|---|
-| Programming | C · C++ · C# |
+| Programming | C++ · C# |
 | Graphics | OpenGL · Vulkan |
-| Game Development | Unity · C# |
 | Web Technologies | HTML · CSS · JavaScript · TypeScript |
 | Development Tools | Visual Studio · VS Code · Git · GitHub |
 
@@ -65,7 +63,6 @@ Hey! I'm **PSKINGxd**, a developer exploring low-level programming, graphics and
 ## 🎯 Currently Exploring
 
 - C/C++ development
-- C# with Unity
 - Graphics programming and rendering (sometimes)
 - Writing cleaner, more maintainable code
 
