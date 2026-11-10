@@ -33,7 +33,7 @@ Hey! I'm **PSKINGxd**, a developer exploring low-level programming, graphics and
 | Area | Technologies |
 |---|---|
 | Programming | C++ · C# |
-| Graphics | OpenGL · Vulkan |
+| Graphics | OpenGL |
 | Web Technologies | HTML · CSS · JavaScript · TypeScript |
 | Development Tools | Visual Studio · VS Code · Git · GitHub |
 
@@ -47,7 +47,7 @@ Hey! I'm **PSKINGxd**, a developer exploring low-level programming, graphics and
 
 </div>
 
-- **[PS FPS SHADER](https://github.com/PSKINGxd/PS-FPS-SHADER/issues)** — Issue Tracker for my PS FPS SHADER.
+- **[PS IMAGE & VIDEO LOADER](https://github.com/PSKINGxd/PS-Image-Video-Loader)** — Issue Tracker for my PS FPS SHADER.
 - **[C/C++ OpenGL BG Changer Project](https://github.com/PSKINGxd/OpenGL-Background-Changer-Program)** — My first OpenGL program, which changes the background color based on the key you press. Source code is also available.
 
 ## 🎯 Currently Exploring
