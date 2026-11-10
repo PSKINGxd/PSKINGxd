@@ -32,10 +32,9 @@ Hey! I'm **PSKINGxd**, a developer exploring low-level programming, graphics and
 
 | Area | Technologies |
 |---|---|
-| Programming | C++ · C# |
+| Programming | C++ |
 | Graphics | OpenGL |
-| Web Technologies | HTML · CSS · JavaScript · TypeScript |
-| Development Tools | Visual Studio · VS Code · Git · GitHub |
+| Development Tools | VS Code · Git · GitHub |
 
 *Technologies listed here reflect my interests and learning journey, not necessarily professional-level proficiency in every tool.*
 
@@ -47,7 +46,7 @@ Hey! I'm **PSKINGxd**, a developer exploring low-level programming, graphics and
 
 </div>
 
-- **[PS IMAGE & VIDEO LOADER](https://github.com/PSKINGxd/PS-Image-Video-Loader)** — Issue Tracker for my PS FPS SHADER.
+- **[PS IMAGE & VIDEO LOADER](https://github.com/PSKINGxd/PS-Image-Video-Loader)** — An Vibe Coded Image & Video Loader for C++ GLFW, GLEW, OpenGL with easy controls.
 - **[C/C++ OpenGL BG Changer Project](https://github.com/PSKINGxd/OpenGL-Background-Changer-Program)** — My first OpenGL program, which changes the background color based on the key you press. Source code is also available.
 
 ## 🎯 Currently Exploring
@@ -60,8 +59,6 @@ Hey! I'm **PSKINGxd**, a developer exploring low-level programming, graphics and
 
 <div align="center">
 
-**Thanks for visiting my profile!** ⭐
-
-*Keep learning. Keep building.*
+**Thanks for visiting my profile! -PSKINGxd** ⭐
 
 </div>
